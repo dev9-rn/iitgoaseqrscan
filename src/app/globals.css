@@ -5,62 +5,62 @@
 @layer base {
   :root {
     --background: 0 0% 100%;
-    --foreground: 267 41% 24%;
+    --foreground: 320 3% 21%;
 
     --card: 0 0% 100%;
-    --card-foreground: 267 41% 24%;
+    --card-foreground: 320 3% 21%;
 
     --popover: 0 0% 100%;
-    --popover-foreground: 267 41% 24%;
+    --popover-foreground: 320 3% 21%;
 
-    --primary: 267 41% 24%;              /* deep purple */
+    --primary: 320 3% 21%;              /* deep purple */
     --primary-foreground: 0 0% 98%;
 
-    --secondary: 44 68% 49%;             /* golden yellow */
+    --secondary: 0 0% 32%;             /* golden yellow */
     --secondary-foreground: 0 0% 100%;
 
     --muted: 44 100% 96%;                /* soft gold background */
     --muted-foreground: 0 12% 22%;       /* dark gray text */
 
-    --accent: 44 68% 49%;                /* golden accent */
-    --accent-foreground: 267 41% 24%;
+    --accent: 0 0% 32%;                /* golden accent */
+    --accent-foreground: 320 3% 21%;
 
-    --destructive: 0 75% 45%;            /* red if needed */
+    --destructive: 0 0% 32%;            /* red if needed */
     --destructive-foreground: 0 0% 98%;
 
-    --border: 267 41% 24%;
+    --border: 320 3% 21%;
     --input: 44 68% 95%;
-    --ring: 267 41% 24%;
+    --ring: 320 3% 21%;
   }
 
   .dark:root {
      --background: 0 0% 100%;
-    --foreground: 267 41% 24%;
+    --foreground: 320 3% 21%;
 
     --card: 0 0% 100%;
-    --card-foreground: 267 41% 24%;
+    --card-foreground: 320 3% 21%;
 
     --popover: 0 0% 100%;
-    --popover-foreground: 267 41% 24%;
+    --popover-foreground: 320 3% 21%;
 
-    --primary: 267 41% 24%;              /* deep purple */
+    --primary: 320 3% 21%;              /* deep purple */
     --primary-foreground: 0 0% 98%;
 
-    --secondary: 44 68% 49%;             /* golden yellow */
+    --secondary: 0 0% 32%;             /* golden yellow */
     --secondary-foreground: 0 0% 100%;
 
     --muted: 44 100% 96%;                /* soft gold background */
     --muted-foreground: 0 12% 22%;       /* dark gray text */
 
-    --accent: 44 68% 49%;                /* golden accent */
-    --accent-foreground: 267 41% 24%;
+    --accent: 0 0% 32%;                /* golden accent */
+    --accent-foreground: 320 3% 21%;
 
-    --destructive: 0 75% 45%;            /* red if needed */
+    --destructive: 0 0% 32%;            /* red if needed */
     --destructive-foreground: 0 0% 98%;
 
-    --border: 267 41% 24%;
+    --border: 320 3% 21%;
     --input: 44 68% 95%;
-    --ring: 267 41% 24%;
+    --ring: 320 3% 21%;
   }
 }
 
