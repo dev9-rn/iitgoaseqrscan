@@ -85,8 +85,6 @@ const LoginScreen = ({ }: Props) => {
         loginBody
       );
 
-      console.log("Login Response:", response.data);
-      console.log("Response Data:", response);
       if (!response.data?.success) {
         if (response.data?.message.length > 50) {
           toast.show(response.data.message, {

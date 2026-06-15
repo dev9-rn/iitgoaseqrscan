@@ -105,10 +105,6 @@ const CameraScreen = ({ }: Props) => {
         scannedFormData
       );
 
-      console.log("Scan Response:", response.data);
-
-      console.log("Response Data:", response);
-
       if (!response.data.success) {
         resetCameraAfterDelay();
         toast.show(response.data?.data?.message || response.data?.message, {
